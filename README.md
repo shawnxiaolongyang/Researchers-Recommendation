@@ -3,7 +3,7 @@ Developing a professional social network website to recommend valuable papers an
 Building website use front end tech like JSP and graph database like Neo4j
 Applied graph based recommendation algorithm using personal Page-rank and Node2Vec
 
-# Summer Research (Researcher Recommendation) Summary
+## Summer 2016 Research (Researcher Recommendation) Summary
 **Goal and problems**
 
 The Researcher Recommendation project aims to build a professional social network for researchers, helping researchers find potential partners and papers. The whole project can be transferred into 3 processes, finding and parsing researchers¡¯ information, competing different recommendation methods and showing the result. 
@@ -44,7 +44,7 @@ Finished the recommendation methods, the next step is to build a website to disp
 
 As mentioned above, we have done almost all 3 processes during the summer¡¯s semester. The data parsing and entry part were successfully finished. As for both recommendation methods, we need to do further research on how to decrease the time.  The website construction part had been done and our further step is to configure the server. 
 
-# Fall 2016 Research Summary (Researcher Recommendation)
+## Fall 2016 Research Summary (Researcher Recommendation)
 
 **Goal and problems**
 
